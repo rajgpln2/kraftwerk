@@ -1,4 +1,4 @@
-Machine Learning Practical Applications Repository
+**Machine Learning Practical Applications Repository**
 
 Author: Raghavendra Hari
 Program: Professional Certificate in Machine Learning and Artificial Intelligence
