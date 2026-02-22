@@ -55,4 +55,7 @@ Interpretation of price drivers
 Business recommendations for dealerships
 
 Open notebook:
-Module 11/used_car_price_drivers_assignment11_1.ipynb
+https://github.com/rajgpln2/kraftwerk/blob/master/Module%2011/used_car_assignment11_1.ipynb
+
+Report:
+https://github.com/rajgpln2/kraftwerk/blob/master/Module%2011/README.md
