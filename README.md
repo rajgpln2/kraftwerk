@@ -1,4 +1,4 @@
-**Machine Learning Practical Applications Repository**
+# Machine Learning Practical Applications Repository
 
 Author: Raghavendra Hari
 Program: Professional Certificate in Machine Learning and Artificial Intelligence
@@ -26,7 +26,7 @@ Business insights and recommendations
 All projects follow the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework.
 
 Module Navigation
-Module 5 — Coupon Acceptance Analysis
+## Module 5 — Coupon Acceptance Analysis
 
 Folder:
 Module 5/
@@ -49,7 +49,7 @@ Business recommendations
 Open notebook:
 Module 5/Practical_Application1.ipynb
 
-Module 11 — What Drives the Price of a Used Car?
+## Module 11 — What Drives the Price of a Used Car?
 
 Folder:
 Module 11/
