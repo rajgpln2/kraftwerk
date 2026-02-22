@@ -1,29 +1,12 @@
 # Machine Learning Practical Applications Repository
 
-Author: Raghavendra Hari
-Program: Professional Certificate in Machine Learning and Artificial Intelligence
+ Author: Raghavendra Hari
+ Program: Professional Certificate in Machine Learning and Artificial Intelligence
 
 GitHub Repository: https://github.com/rajgpln2/kraftwerk
 
 Repository Overview
-
 This repository contains practical machine learning applications completed as part of the Professional Certificate in Machine Learning and Artificial Intelligence program.
-
-Each module contains a complete analysis including:
-
-Business understanding
-
-Data cleaning and preparation
-
-Exploratory data analysis (EDA)
-
-Machine learning modeling
-
-Model evaluation
-
-Business insights and recommendations
-
-All projects follow the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework.
 
 Module Navigation
 ## Module 5 — Coupon Acceptance Analysis
