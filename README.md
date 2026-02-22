@@ -1,61 +1,75 @@
 # Machine Learning Practical Applications Repository
 
- Author: Raghavendra Hari
- Program: Professional Certificate in Machine Learning and Artificial Intelligence
+**Author:** Hari Raghavendra
+**Program:** Professional Certificate in Machine Learning and Artificial Intelligence
 
-GitHub Repository: https://github.com/rajgpln2/kraftwerk
+**GitHub Repository:**
+https://github.com/rajgpln2/kraftwerk
 
-Repository Overview
-This repository contains practical machine learning applications completed as part of the Professional Certificate in Machine Learning and Artificial Intelligence program.
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Module Navigation
+## Repository Overview
+
+This repository contains practical machine learning applications completed as part of the Professional Certificate in Machine Learning and Artificial Intelligence program. Each module applies the CRISP-DM framework, including:
+
+* Business understanding
+* Data preparation
+* Exploratory data analysis
+* Modeling and validation
+* Interpretation of results
+* Business recommendations
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Module Navigation
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Module 5 — Coupon Acceptance Analysis
 
-Folder:
-Module 5/
+**Folder:**
+`Module 5/`
 
-Description:
+**Description:**
 This project analyzes customer behavior and identifies factors influencing coupon acceptance using classification models.
 
-Key components:
+**Key components:**
 
-Exploratory data analysis
+* Exploratory data analysis
+* Feature engineering
+* Classification modeling
+* Model evaluation
+* Business recommendations
 
-Feature engineering
+**Notebook:**
+https://github.com/rajgpln2/kraftwerk/blob/master/Module%205/Practical_Application1.ipynb
 
-Classification modeling
+**Report:**
+https://github.com/rajgpln2/kraftwerk/blob/master/Module%205/README.md
 
-Model evaluation
-
-Business recommendations
-
-Open notebook:
-Module 5/Practical_Application1.ipynb
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Module 11 — What Drives the Price of a Used Car?
 
-Folder:
-Module 11/
+**Folder:**
+`Module 11/`
 
-Description:
+**Description:**
 This project analyzes used car listings to identify key factors affecting vehicle prices using regression modeling.
 
-Key components:
+**Key components:**
 
-Data cleaning and preprocessing
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* Multiple regression models
+* Cross-validation and hyperparameter tuning
+* Interpretation of price drivers
+* Business recommendations for dealerships
 
-Exploratory data analysis
-
-Multiple regression models
-
-Cross-validation and hyperparameter tuning
-
-Interpretation of price drivers
-
-Business recommendations for dealerships
-
-Open notebook:
+**Notebook:**
 https://github.com/rajgpln2/kraftwerk/blob/master/Module%2011/used_car_assignment11_1.ipynb
 
-Report:
+**Report:**
 https://github.com/rajgpln2/kraftwerk/blob/master/Module%2011/README.md
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
