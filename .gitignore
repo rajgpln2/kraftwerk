@@ -1,0 +1,4 @@
+
+# Ignore Jupyter + macOS artifacts
+.ipynb_checkpoints/
+.DS_Store
