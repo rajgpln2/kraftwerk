@@ -1,0 +1,46 @@
+{
+  "winner": "Logistic regression",
+  "raw_rows": 41188,
+  "duplicate_rows_removed": 12,
+  "clean_rows": 41176,
+  "train_rows": 32940,
+  "test_rows": 8236,
+  "test_positive": 928,
+  "test_prevalence": 0.11267605633802817,
+  "ap_interval_95": [
+    0.42055469528439243,
+    0.48528931239425965
+  ],
+  "confusion_matrix": [
+    [
+      7207,
+      101
+    ],
+    [
+      731,
+      197
+    ]
+  ],
+  "top20_records": 1648,
+  "top20_subscribers": 596,
+  "top20_capture": 0.6422413793103449,
+  "top20_precision": 0.3616504854368932,
+  "top20_lift": 3.2096480582524274,
+  "winner_metrics": {
+    "fit_seconds": 0.19674260500005403,
+    "train_accuracy": 0.9005160898603521,
+    "test_accuracy": 0.8989800874210782,
+    "balanced_accuracy": 0.5992320060207992,
+    "precision": 0.6610738255033557,
+    "recall": 0.2122844827586207,
+    "f1": 0.32137030995106036,
+    "average_precision": 0.45136664587973224,
+    "roc_auc": 0.8008644871940056,
+    "top20_precision": 0.3616504854368932,
+    "top20_lift": 3.2096480582524274,
+    "cv_average_precision": 0.4613031510269316,
+    "cv_ap_std": 0.020748476243242938,
+    "search_seconds": 1.6360182570001598,
+    "best_parameters": "{'model__C': 1, 'model__class_weight': None}"
+  }
+}
