@@ -1,0 +1,43 @@
+{
+  "model": "Random forest",
+  "threshold": 0.4136957540986909,
+  "best_parameters": {
+    "model__class_weight": "balanced",
+    "model__max_depth": null,
+    "model__max_features": 1.0,
+    "model__min_samples_leaf": 6
+  },
+  "feature_columns": [
+    "tool_id",
+    "product_type",
+    "incoming_oca_delta_um",
+    "incoming_oca_sd_um",
+    "glass_bow_um",
+    "precheck_temperature_c",
+    "precheck_pressure_mpa",
+    "precheck_vacuum_pa_abs",
+    "precheck_roller_force_n",
+    "recipe_speed_mm_s",
+    "recipe_dwell_s",
+    "ambient_humidity_pct",
+    "cycles_since_maintenance",
+    "tool_operating_hours",
+    "historical_mean_delta_um",
+    "historical_oos_rate",
+    "history_count",
+    "history_age_hours",
+    "days_since_start"
+  ],
+  "fit_days": [
+    0,
+    59
+  ],
+  "threshold_days": [
+    60,
+    79
+  ],
+  "test_days": [
+    80,
+    99
+  ]
+}

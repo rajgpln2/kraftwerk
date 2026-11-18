@@ -1,0 +1,7 @@
+
+# Python and local development files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.DS_Store

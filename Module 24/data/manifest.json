@@ -1,0 +1,36 @@
+{
+  "seed": 20261106,
+  "unit_records": 30000,
+  "lots": 600,
+  "tools": 6,
+  "units_per_lot": 50,
+  "days": 100,
+  "synthetic": true,
+  "target": "lot_bondline_oos",
+  "prediction_features": [
+    "tool_id",
+    "product_type",
+    "incoming_oca_delta_um",
+    "incoming_oca_sd_um",
+    "glass_bow_um",
+    "precheck_temperature_c",
+    "precheck_pressure_mpa",
+    "precheck_vacuum_pa_abs",
+    "precheck_roller_force_n",
+    "recipe_speed_mm_s",
+    "recipe_dwell_s",
+    "ambient_humidity_pct",
+    "cycles_since_maintenance",
+    "tool_operating_hours",
+    "historical_mean_delta_um",
+    "historical_oos_rate",
+    "history_count",
+    "history_age_hours",
+    "days_since_start"
+  ],
+  "sha256": {
+    "lamination_units.csv": "fabdbf647a70b03d9c2c1293ef405826424b3240d4ec757a1144a2897a0b9d2c",
+    "lamination_lots.csv": "ed1f280b869c9d9ecbd90c38697917f665ede1f1646dc6b4610689d934ec5fac",
+    "maintenance_events.csv": "fd8512969bc6984e5f68d30d51bf67e6e4cd747d226375c8c66dd1f71ed2743c"
+  }
+}
